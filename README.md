@@ -1,7 +1,9 @@
 # Space-Attack
 Android game developed in Xamarin. ( C# &amp; .Net based technology )
 
-Fixed shooting genre game, based in space.
+Fixed shooting genred game, based in space.
+
+![Space_Attack_Screens](https://user-images.githubusercontent.com/70844165/92496204-84ca6580-f200-11ea-8283-bfa3054b1c17.jpg)
 
 ## Story
 
