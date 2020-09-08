@@ -3,7 +3,7 @@ Android game developed in Xamarin. ( C# &amp; .Net based technology )
 
 Fixed shooting genred game, based in space.
 
-![Space_Attack_Screens](https://user-images.githubusercontent.com/70844165/92496204-84ca6580-f200-11ea-8283-bfa3054b1c17.jpg)
+![Space_Attack_Screens](https://user-images.githubusercontent.com/70844165/92506228-cd3c5000-f20d-11ea-8a2b-b3d382b0a9b0.jpg)
 
 ## Story
 
