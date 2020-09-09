@@ -16,7 +16,7 @@ Based on a prophecy that was originated in your home town. You, the last survivo
 You knowing the struggles up ahead, keeps on pushing forwards for all mankind, their hopes, their dreams, and for the future of all...<br>
 You suit-up, aboards the spacecraft, and starts the adventure that will change the course of history.
 
-## How to play.
+## How to play
 
 1. Control the spaceship using you finger.
 2. Destroy the asteroids, while avoiding getting hit.
